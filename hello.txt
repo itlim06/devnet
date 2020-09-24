@@ -1,0 +1,3 @@
+echo $Xin chào mọi người
+
+end
