@@ -1,3 +1,5 @@
 echo $Xin chào mọi người
 
 end
+
+tôi hơi mệt rồi đó nha nha 
